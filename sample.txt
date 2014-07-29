@@ -3,6 +3,8 @@ Add line.
 
 FixME!
 
-Auto push test.
+Auto push test add new text.
+
+Let's conflict!
 
 
