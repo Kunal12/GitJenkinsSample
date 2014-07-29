@@ -3,6 +3,7 @@ Add line.
 
 FixME!
 
-Auto push test.
+Auto push test hoge.
 
+Ya, conflict!
 
