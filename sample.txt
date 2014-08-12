@@ -4,6 +4,9 @@ Add line.
 FixME!
 
 Auto push test hoge.
+Auto push test add new text.
+
+Let's conflict!
 
 Ya, conflict!
 
